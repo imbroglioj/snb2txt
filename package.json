@@ -9,7 +9,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "node parseSnb.js NY\\ sights.snb"
+    "test": "test/test.sh"
   },
   "keywords": [
     "Samsung",

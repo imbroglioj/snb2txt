@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 /* $(NAME)
  * Author: jbroglio
  * Date: 10/14/14
