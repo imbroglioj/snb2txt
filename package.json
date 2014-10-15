@@ -1,0 +1,22 @@
+{
+  "name": "snb2txt",
+  "version": "0.0.1",
+  "description": "Extracts the text from a Samsung Galaxy S-pen .snb file.",
+  "main": "parseSnb.js",
+  "dependencies": {
+    "unzip": "^0.1.11",
+    "xml-stream": "^0.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node parseSnb.js NY\\ sights.snb"
+  },
+  "keywords": [
+    "Samsung",
+    "Galaxy",
+    "S-pen",
+    "snb"
+  ],
+  "author": "John Broglio",
+  "license": "MIT"
+}
